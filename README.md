@@ -7,3 +7,4 @@ The package has the following ciphers:
 - Polybius cipher
 - Adfgvx cipher
 - Bacon cipher
+- Beaufort cipher
