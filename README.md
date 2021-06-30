@@ -8,3 +8,10 @@ The package has the following ciphers:
 - Adfgvx cipher
 - Bacon cipher
 - Beaufort cipher
+
+# Installation
+Using devtools:
+ 
+```
+devtools::install_github("Red-Right-Hand1/CIPH_package")
+```
