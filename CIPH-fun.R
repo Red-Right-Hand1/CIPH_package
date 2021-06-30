@@ -316,6 +316,7 @@ bacon.cipher = function(ms, ..., code) {
 #'
 #' @examples
 #' beaufort.cipher(ms = "Hello World", key = "Z", code = "encrypt")
+#'
 #' beaufort.cipher(ms = "FIBBYQYVBJ", key = "m", code = "decrypt")
 beaufort.cipher = function(ms, key, code) {
     up.raw = toupper(ms)
