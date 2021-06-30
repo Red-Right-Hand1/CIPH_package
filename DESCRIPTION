@@ -1,9 +1,9 @@
 Package: CIPH
 Type: Package
-Title: CIPH: A package used to encrypt and crack hidden messages.
+Title: A package used to encrypt and crack hidden messages.
 Version: 0.1.0
 Author: Bruno Damián Aguirre del Villar
-Maintainer: b.aguirre.delv@gmail.com
+Maintainer: The package maintainer <b.aguirre.delv@gmail.com>
 Description: The CIPH package contains a series of simple functions that can encrypt or crack different hidden messages using a series of classical ciphers, each with its unique qualitites (key, shift, etc). The availabe ciphers are:
     -Numeric Cipher
     -Caesar Cipher
